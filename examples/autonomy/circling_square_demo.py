@@ -44,14 +44,14 @@ from cflib.crazyflie.swarm import CachedCfFactory
 from cflib.crazyflie.swarm import Swarm
 from cflib.crazyflie.syncLogger import SyncLogger
 
-URI1 = 'radio://0/60/2M/E7E7E7E710'
-URI2 = 'radio://0/60/2M/E7E7E7E711'
-URI3 = 'radio://0/60/2M/E7E7E7E712'
-URI4 = 'radio://0/60/2M/E7E7E7E713'
-URI5 = 'radio://0/60/2M/E7E7E7E714'
-URI6 = 'radio://0/60/2M/E7E7E7E715'
-URI7 = 'radio://0/60/2M/E7E7E7E716'
-URI8 = 'radio://0/60/2M/E7E7E7E717'
+URI1 = 'radio://0/80/2M/E7E7E7E710'
+URI2 = 'radio://0/80/2M/E7E7E7E711'
+URI3 = 'radio://0/80/2M/E7E7E7E712'
+URI4 = 'radio://0/80/2M/E7E7E7E713'
+URI5 = 'radio://0/80/2M/E7E7E7E714'
+URI6 = 'radio://0/80/2M/E7E7E7E715'
+URI7 = 'radio://0/80/2M/E7E7E7E716'
+URI8 = 'radio://0/80/2M/E7E7E7E717'
 
 # The trajectory to fly
 a = 0.55  # where the Beizer curve control point should be https://spencermortensen.com/articles/bezier-circle/
